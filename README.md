@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Fahim Hossain
-- 👀 I’m interested in Web Programming
+- 👀 I’m interested in Web Application Development
 - 🌱 I’m currently working on Laravel & Vue Js
-- 💞️ I’m looking to collaborate on a Laravel & Vue based project
+- 💞️ I’m looking to collaborate on a Django, Laravel & Vue based project
 - 📫 knock me in email alifhossain174@gmail.com 
 
 <!---
